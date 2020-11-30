@@ -1,4 +1,4 @@
-# Single_cell_RNA_sequencing_data_analysis_workflow
+# Single_cell_RNA_sequencing_data_analysis_workflows
 
 This repository contains two Jupyter Notebook files. One contains the code implemented in the scRNA-seq data analysis workflow of the human retina sample. 
 The other contains the code implemented in the scRNA-seq data analysis workflow of the mouse retina sample.
